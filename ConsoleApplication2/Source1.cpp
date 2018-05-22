@@ -7,7 +7,8 @@ void main()
 
 
 float a;
-printf("Введите значение А");
-scanf()
+printf("Введите значение a");
+scanf("%d", &a);
+a = 
 
 }
